@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>RevitAPI5_L12_Ribbon</Name>
+		<Assembly>C:\Program Files\RevitAPITraining\RevitAPI5_L12_Ribbon.dll</Assembly>
+		<AddInId>DCB9095E-FEBB-469F-9987-A7B455CA27F4</AddInId>
+		<FullClassName>RevitAPI5_L12_Ribbon.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+	</AddIn>
+</RevitAddIns>
